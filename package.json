@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"start": "node ./src/client.js"
+	},
+	"dependencies": {
+		"discord.js": "^13.8.1",
+		"dotenv": "^16.0.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.19.0"
+	}
+}
